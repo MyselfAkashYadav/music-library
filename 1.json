@@ -1,0 +1,14 @@
+[
+    {
+        "playlist" : "Podcast",
+        "songs" : ["books","astronomy","tech"]
+    },
+    {
+        "playlist" : "Indi-India",
+        "songs" : ["Tuta Pull Wahan","Chhodo Kalaiya","Rangi Saari"]
+    },
+    {
+        "playlist" : "EDM",
+        "songs" : ["The Nights","On the Floor","Hey Mama"]
+    }
+]
